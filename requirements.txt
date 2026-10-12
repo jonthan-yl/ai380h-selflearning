@@ -1,0 +1,11 @@
+numpy>=1.26
+pandas>=2.2
+pyarrow>=14
+scikit-learn>=1.4
+lightgbm>=4.3
+shap>=0.45
+torch>=2.2
+matplotlib>=3.8
+jupyterlab
+nbformat
+nbclient
